@@ -1,0 +1,1 @@
+This project was created using C++, SFML, and SFPhysics. This is a simulation of a ball with a randomized velocity bouncing off the walls and the object in the center. This project tracts the collisions and will close when the ball hits the object in the center 3 times. 
